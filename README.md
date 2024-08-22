@@ -2,4 +2,4 @@
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning Certified Cloud Applied Generative AI Coarse from Governor House.
 - 🌱 I'm currently learning Web Development and Mobile Application Coarse from Saylani Mass IT Training (SMIT) Program.
-🖥️ How to reach me. (Email, "hlaiba613@gmail.com")
+- 🖥️ How to reach me. (Email, "hlaiba613@gmail.com")
